@@ -1,5 +1,5 @@
-# LogisticRegression_GreenTaxi
-Green Taxi Data: Classification-tree Methodology Application	 <br />
+# Logistic Regression: Green Taxi
+
 •	Identified the critical problem and established the analysis objective   <br />
 •	Collected creditable raw data from NYC Open Data  <br />
 •	Explored data properties, then cleaned and formatted data into desired form  <br />
